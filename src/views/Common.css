@@ -1,0 +1,78 @@
+.secondary-background {
+    margin: 50px 0px;
+    background-color: #12171a;
+    padding: 50px 24px;
+}
+
+.secondary-background-1 {
+    margin: 50px 0px;
+    background-color: #12171a;
+    padding: 50px 0px;
+}
+
+.title {
+    font-family: "roboto", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+    margin-top: 0px !important;
+}
+
+.text {
+    font-family: "roboto", sans-serif;
+    font-size: 14px;
+    color: white;
+    line-height: 1.6;
+}
+
+.credential-card {
+    background-color: #12171a;
+
+    &>div:nth-child(2) {
+        padding-top: 14px !important;
+    }
+
+    .ant-card-head-title {
+        text-overflow: unset !important;
+        white-space: unset !important;
+        padding: 16px 0px;
+    }
+}
+
+.credential-card-1 {
+    background-color: #151b1f;
+
+    &>div:nth-child(2) {
+        padding-top: 14px !important;
+    }
+}
+
+.credential-title {
+    font-family: "roboto", sans-serif;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0px !important;
+}
+
+.credential-year {
+    font-family: "roboto", sans-serif;
+    color: white;
+    font-size: 16px;
+    margin: 0px !important;
+}
+
+.credential-address {
+    font-family: "roboto", sans-serif;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0px !important;
+    padding-top: 14px !important;
+}
+
+@media screen and (max-width: 820px) {
+    .title {
+        font-size: 26px;
+    }
+}

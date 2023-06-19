@@ -1,0 +1,11 @@
+.card {
+    background-color: #12171a;
+}
+
+.card-title {
+    font-family: "roboto", sans-serif;
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 16px !important;
+}

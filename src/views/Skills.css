@@ -1,0 +1,28 @@
+.skills-card {
+    background-color: #12171a;
+    box-shadow: none !important;
+
+    &>div {
+        border: none !important;
+    }
+
+    &>div:nth-child(2) {
+        padding: 0px !important;
+    }
+}
+
+.skills-card-title {
+    font-family: "roboto", sans-serif;
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0px !important;
+}
+
+.skill-name {
+    font-family: "roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    margin: 0px !important;
+}
