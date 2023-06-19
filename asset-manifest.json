@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emran-resume/static/css/main.5fcae82a.css",
+    "main.js": "/emran-resume/static/js/main.e4674247.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/emran-resume/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/profile.jpg": "/emran-resume/static/media/profile.25b5165824563891883e.jpg",
+    "index.html": "/emran-resume/index.html",
+    "main.5fcae82a.css.map": "/emran-resume/static/css/main.5fcae82a.css.map",
+    "main.e4674247.js.map": "/emran-resume/static/js/main.e4674247.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/emran-resume/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fcae82a.css",
+    "static/js/main.e4674247.js"
+  ]
+}
